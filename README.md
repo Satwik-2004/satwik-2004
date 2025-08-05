@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **satwik1714@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1X_PdjGsud7EbwSFnNXCdZW11IVQJok5D/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1J0JTUckT6fHpC942EoCeB9KmyuH2Rh1U/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,12 +41,6 @@
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   </a>
 </p>
 
