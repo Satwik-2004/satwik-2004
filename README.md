@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on **Jobster**
 
-- 🌱 I'm currently learning **Next.js and TypeScript**
+- 🌱 I'm currently learning and working in**Next.js and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Satwik-2004?tab=repositories](https://github.com/Satwik-2004?tab=repositories)
 
