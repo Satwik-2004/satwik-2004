@@ -109,13 +109,14 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satwik-2004&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satwik-2004&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satwik-2004&show_icons=true&locale=en&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Satwik-2004&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satwik-2004&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satwik-2004&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
