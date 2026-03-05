@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **satwik1714@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1J0JTUckT6fHpC942EoCeB9KmyuH2Rh1U/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1S9A7jgEX2O7ImapVc2lRFb-oG2EKRKUI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
