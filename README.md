@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satwik</h1>
 <h3 align="center">A passionate fullStack developer from India looking for oppurtunities.</h3>
 
-- 🌱 I'm currently working as an intern at Techxpert.
+- 🌱 I'm currently working as an SDE Intern at Techxpert.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Satwik-2004?tab=repositories](https://github.com/Satwik-2004?tab=repositories)
 
