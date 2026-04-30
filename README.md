@@ -20,7 +20,7 @@ Computer Science student and SDE Intern at **Techxpert**, building production-gr
 - 🏢 Interning at **Techxpert** — building enterprise web apps used in real production environments
 - 🔭 Currently developing **TechxAI** — an AI-powered search dashboard for enterprise ticket data
 - 🌱 Growing in **system design**, **TypeScript**, and **backend architecture**
-- 🎯 Actively looking for **full-time SDE roles** — available from mid-2025
+- 🎯 Actively looking for **full-time SDE roles** — available from mid-2026
 
 ---
 
