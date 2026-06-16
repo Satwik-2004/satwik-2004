@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-Computer Science student and SDE Intern at **Techxpert**, building production-grade full-stack applications. I care deeply about clean architecture, readable code, and interfaces that feel great to use.
+Computer Science student and Ex-SDE Intern at **Techxpert**, building production-grade full-stack applications. I care deeply about clean architecture, readable code, and interfaces that feel great to use.
 
 - 🏢 While interning at **Techxpert** I was building enterprise web apps used in real production environments
 - 🌱 Growing in **system design**, **TypeScript**, and **backend architecture**
