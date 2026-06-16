@@ -2,7 +2,7 @@
 
 # Satwik
 
-**CS Student · SDE Intern @ Techxpert · Seeking Full-Time SDE Roles**
+**CS Student · Ex-SDE Intern @ Techxpert · Seeking Full-Time SDE Roles**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satwik-92a043289/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Satwik-2004)
@@ -17,8 +17,7 @@
 
 Computer Science student and SDE Intern at **Techxpert**, building production-grade full-stack applications. I care deeply about clean architecture, readable code, and interfaces that feel great to use.
 
-- 🏢 Interning at **Techxpert** — building enterprise web apps used in real production environments
-- 🔭 Currently developing **TechxAI** — an AI-powered search dashboard for enterprise ticket data
+- 🏢 While interning at **Techxpert** I was building enterprise web apps used in real production environments
 - 🌱 Growing in **system design**, **TypeScript**, and **backend architecture**
 - 🎯 Actively looking for **full-time SDE roles** — available from mid-2026
 
